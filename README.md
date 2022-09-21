@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Software engineering
 - 🌱 I’m currently learning at ALX
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me akinduyoemmanuel.me
 
 <!---
 Lekemedia/Lekemedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
